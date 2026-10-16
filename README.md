@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi, I'm Khalid 👋
+Hi, I'm Khalid 👋
 
-### AI Automation Engineer in Progress | Workflow Builder | Data & Analytics
+### AI Automation Engineer in Progress \| Workflow Builder \| Data & Analytics
 
 I build practical automation systems that connect AI, business
 processes, and data---turning repetitive work into workflows that are
 easier to run, maintain, and scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidbahajjaj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)](https://github.com/kbahajjaj?tab=repositories)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?logo=gmail&logoColor=white)](mailto:k.bahajjaj@gmail.com)
 
 </div>
 
