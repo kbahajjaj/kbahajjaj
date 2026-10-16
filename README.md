@@ -1,4 +1,3 @@
-::: {align="center"}
 
 # Hi, I'm Khalid 👋
 
