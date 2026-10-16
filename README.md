@@ -1,3 +1,4 @@
+<div align="center">
 
 # Hi, I'm Khalid 👋
 
@@ -9,7 +10,8 @@ easier to run, maintain, and scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)](https://github.com/)
-:::
+
+</div>
 
 ***
 
