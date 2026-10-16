@@ -1,5 +1,3 @@
-::: {align="center"}
-
 # Hi, I'm Khalid 👋
 
 ### AI Automation Engineer in Progress | Workflow Builder | Data & Analytics
